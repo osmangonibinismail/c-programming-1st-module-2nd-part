@@ -80,15 +80,51 @@
 
 //     return 0;
 // }
-#include <stdio.h>>
-int main()
-{
-    int a, b;
+// #include <stdio.h>>
+// int main()
+// {
+//     int a, b;
 
-    scanf("%d %d", &a, &b);
-    printf("%08d\n", a);
-    printf("%08d\n", b);
+//     scanf("%d %d", &a, &b);
+//     printf("%08d\n", a);
+//     printf("%08d\n", b);
 
-    return 0;
+//     return 0;
+// }
+
+
+// #include <stdio.h>
+
+// int main() {
+//  int age = 10;
+//  float pi = 3.1416;
+//  char initial = '@';
+
+
+//  scanf("%d %f %c", &age, &pi, &initial);
+
+
+//  printf("Age: %d\n", age);
+//  printf("Pi: %f\n", pi);
+//  printf("Initial: %c\n", initial);
+
+
+//   return 0;
+// }
+
+
+#include <stdio.h>
+
+
+int main() {
+ printf("This is a line with a newline character\n");
+ printf("This is a line with a horizontal tab\tright here.\n");
+ printf("This string contains a \"double quote\"\n");
+ printf("This string contains a \'single quote\'\n");
+ printf("This string contains a \\backslash\\\n");
+ printf("This string contains a percent sign %%.\n");
+
+  return 0;
 }
+
 

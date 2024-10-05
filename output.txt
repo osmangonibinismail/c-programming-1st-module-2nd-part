@@ -1,2 +1,6 @@
-00000010
-00001000
+This is a line with a newline character
+This is a line with a horizontal tab	right here.
+This string contains a "double quote"
+This string contains a 'single quote'
+This string contains a \backslash\
+This string contains a percent sign %.
